@@ -9,6 +9,8 @@ All the tools can be installed via [bioconda](http://bioconda.github.io/)
     - centrifuge
     - mash
     - krona
+    - kmc
+    - bbtools
 
 - **Centrifuge database and Krona taxonomy**: https://genomics.sschmeier.com/downloads.html#downloads
 
